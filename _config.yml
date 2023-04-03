@@ -3,7 +3,6 @@ locale: 'ko-KR'
 name: "Wein66"
 title: "Wein66 blog"
 description: "wein66 blog's."
-published: true
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: 'http://wein66.github.io/'
